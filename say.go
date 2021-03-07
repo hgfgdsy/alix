@@ -3,5 +3,5 @@ package alix
 import "fmt"
 
 func Nice(){
-	fmt.Println("11111111!")
+	fmt.Println("222222222222!")
 }
