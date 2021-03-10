@@ -1,3 +1,3 @@
-module github.com/hgfgdsy/alix/v2
+module github.com/hgfgdsy/alix
 
 go 1.15
