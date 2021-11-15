@@ -2,7 +2,7 @@ package alix
 
 import (
 	"fmt"
-	"github.com/hgfgdsy/alix/v3/sub"
+	"github.com/hgfgdsy/alix/v4/sub"
 )
 
 func Nice(){
