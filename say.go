@@ -6,6 +6,6 @@ import (
 )
 
 func Nice(){
-	fmt.Println("33322222222222222!")
+	fmt.Println("44444444444!")
 	sub.Hoho()
 }
